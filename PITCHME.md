@@ -17,14 +17,13 @@ eBPF was enabled in Red Hat Enterprise Linux 7.6
 ```
 # uname -r
 3.10.0-940.el7.x86_64
+# yum install bcc-tools
 ```
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 ---

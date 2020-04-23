@@ -9,7 +9,7 @@ The Enhanced Berkeley Packet Filter
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
-@color[red](Red Hat Support)
+### @color[red](Red Hat Support)
 https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7
 eBPF was enabled in Red Hat Enterprise Linux 7.6 
 ```
@@ -18,8 +18,8 @@ eBPF was enabled in Red Hat Enterprise Linux 7.6
 # yum install bcc-tools
 ```
 ---
-@title[Add A Little Imagination]
-
+@title[An example of a typical install]
+---?terminal=assets/img/bcc-tools.json&color=#7FDBFF&font=small&title=bcc-tools installation example
 @snap[north-west span-50 text-center]
 #### Engage your Audience
 @snapend

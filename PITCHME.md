@@ -24,6 +24,7 @@ eBPF was enabled in Red Hat Enterprise Linux 7.6
 @snapend
 ![Conceptual Design](/assets/img/grav-conceptual-design2.png)
 @snap[west span-55]
+---
 @ul[list-spaced-bullets text-09]
 - You will be amazed
 - What you can achieve

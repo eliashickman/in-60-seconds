@@ -2,7 +2,7 @@
 The Enhanced Berkeley Packet Filter
 ---
 
-### Add Some Slide Candy
+### Linux Kernel Requirements
 
 ![IMAGE](assets/img/linux_ebpf_support.png)
 
@@ -10,8 +10,14 @@ The Enhanced Berkeley Packet Filter
 @title[Customize Slide Layout]
 
 @snap[west span-55]
-## Customize the Layout
+## Introduction by Red Hat
 @snapend
+https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7
+eBPF was enabled in Red Hat Enterprise Linux 7.6 
+```
+# uname -r
+3.10.0-940.el7.x86_64
+```
 
 @snap[north-east span-45]
 ![IMAGE](assets/img/presentation.png)

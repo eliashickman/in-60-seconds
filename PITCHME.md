@@ -20,9 +20,9 @@ eBPF was enabled in Red Hat Enterprise Linux 7.6
 ---?terminal=assets/asciinema/bcc-tools.json&color=#7FDBFF&font=small&title=bcc-tools installation example
 ---
 @snap[north-west span-50 text-center]
-#### Engage your Audience
+#### Platform creation
 @snapend
-
+![Conceptual Design](/assets/img/grav-conceptual-design2.png)
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
 - You will be amazed

@@ -9,9 +9,9 @@ The Enhanced Berkeley Packet Filter
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
-@snap[west span-55]
-## Introduction by Red Hat
-@snapend
+
+## Red Hat Support
+
 https://www.redhat.com/en/blog/introduction-ebpf-red-hat-enterprise-linux-7
 eBPF was enabled in Red Hat Enterprise Linux 7.6 
 ```

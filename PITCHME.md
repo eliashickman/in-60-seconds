@@ -17,7 +17,7 @@ eBPF was enabled in Red Hat Enterprise Linux 7.6
 3.10.0-940.el7.x86_64
 # yum install bcc-tools
 ```
----?terminal=assets/img/bcc-tools.json&color=#7FDBFF&font=small&title=bcc-tools installation example
+---?terminal=assets/asciinema/bcc-tools.json&color=#7FDBFF&font=small&title=bcc-tools installation example
 ---
 @snap[north-west span-50 text-center]
 #### Engage your Audience
